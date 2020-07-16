@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
 
+# AUTHOR: Victor Kolis 
+
+# Understanding the game:
+''' 
+Enter any text at all into the prompt when you run this game
+And it will convert your text into a readable numtext type of file.
+'''
+
 a = input('Please enter a sentence: ')
 
 a = a.lower()
