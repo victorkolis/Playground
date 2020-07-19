@@ -4,7 +4,7 @@
 
 # Description:
 # This piece of software's goal is to satisfy a need to find patterns
-# in a text (of any sort) to trim off phone numeber patterns
+# in a text (of any sort) to trim off phone number patterns
 # such as americans and canadians are: xxx-xxx-xxxx
 
 import re
